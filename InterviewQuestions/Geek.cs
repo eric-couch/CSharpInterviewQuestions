@@ -12,12 +12,12 @@ namespace InterviewQuestions
             this.IQ = iq;
         }
 
-        static void Main(string[] args)
-        {
-            // an object is created of Geek class,
-            // So above constructor is called
-            Geek eric = new Geek(160);
+        //static void Main(string[] args)
+        //{
+        //    // an object is created of Geek class,
+        //    // So above constructor is called
+        //    Geek eric = new Geek(160);
 
-        }
+        //}
     }
 }
