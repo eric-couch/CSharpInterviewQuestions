@@ -1,0 +1,11 @@
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\bin\Debug\netcoreapp3.1\InterviewQuestions.exe
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\bin\Debug\netcoreapp3.1\InterviewQuestions.deps.json
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\bin\Debug\netcoreapp3.1\InterviewQuestions.runtimeconfig.json
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\bin\Debug\netcoreapp3.1\InterviewQuestions.runtimeconfig.dev.json
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\bin\Debug\netcoreapp3.1\InterviewQuestions.dll
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\bin\Debug\netcoreapp3.1\InterviewQuestions.pdb
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\obj\Debug\netcoreapp3.1\InterviewQuestions.csprojAssemblyReference.cache
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\obj\Debug\netcoreapp3.1\InterviewQuestions.AssemblyInfoInputs.cache
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\obj\Debug\netcoreapp3.1\InterviewQuestions.AssemblyInfo.cs
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\obj\Debug\netcoreapp3.1\InterviewQuestions.dll
+C:\Users\ericc\source\repos\InterviewQuestions\InterviewQuestions\obj\Debug\netcoreapp3.1\InterviewQuestions.pdb
