@@ -4,6 +4,37 @@ namespace InterviewQuestions
 {
     class Program
     {
+        //  int width = 6
+        // ******
+        // *    *
+        // *    *
+        // *    *
+        // *    *
+        // ******
+        public static void PrintSquare(int length)
+        {
+            for (int h=1; h<=length; h++)
+            {
+                for (int v=1; v<=length; v++)
+                {
+                    if (h==1 || h==length)
+                    {
+                        Console.Write("*");
+                    } else 
+                    {
+                        if (v==1|| v==length)
+                        {
+                            Console.Write("*");
+                        } else
+                        {
+                            Console.Write(" ");
+                        }
+                    }
+                }
+                Console.WriteLine();
+            }
+        }
+
         public static void LargestSmallest (int[] nums)
         {
             int min, max;
@@ -29,6 +60,8 @@ namespace InterviewQuestions
             int[] numbers = { 0, 1, 2, 35, 6, 7, 8, 44, 66, 3, 9, -7 };
 
             LargestSmallest(numbers);
+
+            PrintSquare(15);
         }
     }
 }
